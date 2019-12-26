@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="@dimen/story_stroke_width"
+        android:color="@color/color_story_read" />
+
+    <corners android:radius="@dimen/story_corner_radius"/>
+
+    <padding
+        android:bottom="@dimen/story_stroke_padding"
+        android:left="@dimen/story_stroke_padding"
+        android:right="@dimen/story_stroke_padding"
+        android:top="@dimen/story_stroke_padding" />
+
+    <solid android:color="@android:color/white"/>
+
+</shape>

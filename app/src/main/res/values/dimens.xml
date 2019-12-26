@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="half_button_size">150dp</dimen>
+    <dimen name="full_button_size">300dp</dimen>
+
+    <!-- Margins for animation of the FAB buttons. -->
+    <dimen name="standard_60">60dp</dimen>
+    <dimen name="standard_105">105dp</dimen>
+    <dimen name="story_stroke_width">3dp</dimen>
+    <dimen name="story_stroke_padding">5dp</dimen>
+    <dimen name="story_corner_radius">10dp</dimen>
+    <dimen name="stories_spacing">10dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+
+    <dimen name="story_margin">5dp</dimen>
+
+</resources>
